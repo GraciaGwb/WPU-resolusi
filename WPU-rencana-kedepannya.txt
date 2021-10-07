@@ -6,5 +6,6 @@ RENCANA KEDEPANNYA
  *layout
  *Background
 -CC
+ *view
 -HTML
 -C++
