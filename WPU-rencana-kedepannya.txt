@@ -2,6 +2,10 @@ RENCANA KEDEPANNYA
 -Java Script 100%
 -Phyton
 -Java
+ *view
+ *layout
+ *Background
 -CC
+ *view
 -HTML
 -C++
