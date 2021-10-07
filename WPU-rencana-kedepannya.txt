@@ -2,6 +2,10 @@ RENCANA KEDEPANNYA
 -Java Script 100%
 -Phyton
 -Java
+ *gradle
+ *Pict
+ *Double
 -CC
+ *File
 -HTML
 -C++
