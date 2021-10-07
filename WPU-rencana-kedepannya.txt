@@ -1,3 +1,6 @@
 RENCANA KEDEPANNYA
 -Java Script 100%
+-Phyton
+-Java
+-HTML
 -C++
